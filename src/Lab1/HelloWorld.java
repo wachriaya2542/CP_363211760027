@@ -10,7 +10,7 @@ public class HelloWorld
         System.out.println("363211760027");
         System.out.println("การจัดการเทคโนโลยีสารสนเทศ");
         System.out.println("เทคโนโลยีการจัดการ");
-
+        System.out.println("เทคโนโลยีการจัดการ");
 
 
 
